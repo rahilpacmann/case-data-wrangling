@@ -173,6 +173,7 @@ Sebelum mencoba kode pada repository ini, pastikan anda sudah :
             actors VARCHAR
         );
         ```
+- Install 
 
 ## 2. Usage
 - Untuk melakukan validasi, gunakan perintah :
