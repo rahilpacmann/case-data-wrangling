@@ -1,4 +1,4 @@
-# Case Data Wrangling : DVD Rental
+# Case Data Wrangling : DVD Rental ETL
 This repo for learning purpose only
 
 ## 1. Preparation
