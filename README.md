@@ -183,7 +183,7 @@ Sebelum mencoba kode pada repository ini, pastikan anda sudah :
     ```
     python3 utils/data_validations.py
     ```
-- Untuk melakukan exstrak -> transform -> load, gunakan perintah :
+- Untuk melakukan ekstrak -> transform -> load, gunakan perintah :
     ```
     python3 main.py
     ```
