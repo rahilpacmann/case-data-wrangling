@@ -173,7 +173,7 @@ Sebelum mencoba kode pada repository ini, pastikan anda sudah :
             actors VARCHAR
         );
         ```
-- *Intall dependencies libraries**
+- **Intall dependencies libraries**
     ```
     pip install -r requirements.txt
     ```
