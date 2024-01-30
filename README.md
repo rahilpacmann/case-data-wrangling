@@ -173,7 +173,10 @@ Sebelum mencoba kode pada repository ini, pastikan anda sudah :
             actors VARCHAR
         );
         ```
-- Install 
+- *Intall dependencies libraries**
+    ```
+    pip install -r requirements.txt
+    ```
 
 ## 2. Usage
 - Untuk melakukan validasi, gunakan perintah :
